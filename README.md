@@ -13,10 +13,10 @@ The provisioned perks I imagined when I was 14 years old were wildly unbalanced,
 There are 4 "Anatomical Understanding" perks which increase in the amount of effect that they have. Every perk increases damage per bullet by about 12.5%, although I could be wrong. For obvious reasons, being able to deal 50% more damage per bullet than other players when you are max level is incredibly unbalanced. But anyway.
 
 ### Accuracy
-There are 4 "Stability Training" perks which reduce the spread of your bullets per shot. At max level, spread is reduced by 95%.
+There are 4 "Stability Training" perks which reduce the spread of your bullets per shot. At max level, spread is removed.
 
 ### Recoil
-There are 4 "Ergonomical Handling" perks which reduce recoil. At max level, I think recoil is reduced by 95%.
+There are 4 "Ergonomical Handling" perks which reduce recoil. At max level, recoil is removed.
 
 ### Damage Resistance
 There are 4 "Medical Attainment" perks which reduce the amount of damage you receive against all sources of damage. At max level, this is reduced by 30%, which is surprisingly balanced for 14 year old me...
